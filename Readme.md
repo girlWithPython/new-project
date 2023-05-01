@@ -12,9 +12,9 @@
 11. Check that you are successfully switched to the "development" branch ("Switched to branch 'development'" message in Terminal)
 12. Add step-by-step instructions to Readme.md and save the changes
 13. Add Readme.md to the staging area (git add Readme.md)
-14. Commit the changes (git commit -m "first commit") and check that the changes are committed (look at #8) 
-15. Push the changes to the remote repository (git push)
-16. Switch to the "main" branch (git checkout main)
-17. Merge the changes into "main" branch (git merge development)
+14. Commit the changes (git commit -m "first commit") and check that the changes are committed (e.g. look at #8) 
+15. Switch to the "main" branch (git checkout main)
+16. Merge the changes into "main" branch (git merge development)
+17. Push the changes to the remote repository (git push origin main) Commit the changes (git commit -m "first commit") and check that the changes are pushed (e.g. look at #8) 
 18. Open "new-project" folder via GitHub
 19. Check that the changes from the "development" branch are merged into the "main" branch successfully by comparing the content of Readme.md with the changes   
