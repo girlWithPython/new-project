@@ -18,4 +18,3 @@
 17. Merge the changes into "main" branch (git merge development)
 18. Open "new-project" folder via GitHub
 19. Check that the changes from the "development" branch are merged into the "main" branch successfully by comparing the content of Readme.md with the changes   
-
